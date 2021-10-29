@@ -1,0 +1,22 @@
+.wordContainerOn {
+    position: relative;
+    display: inline-block;
+    width: 100%
+    /*whatever dimensions you want*/
+    
+}
+
+.mainheaderOn{
+    display: flex;
+    /* width: 50%; */
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    /* align-items:center; */
+    justify-content:center;
+}
+.downLoginOn {
+    position: relative;
+    top: 75px;
+    left: 38px
+}

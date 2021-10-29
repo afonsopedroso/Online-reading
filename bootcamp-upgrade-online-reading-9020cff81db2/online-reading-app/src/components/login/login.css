@@ -1,0 +1,66 @@
+.Col{
+    background-color: blue;
+}
+
+.centralize{
+    margin-top:10%;
+}
+
+.formLabelLogin{
+    max-width:100%;
+    width:100%
+}
+.buttonLogin{
+    margin-left:45%;
+}
+
+.layer1 {
+    position:absolute;
+    z-index: 1;
+}
+
+.layer2 {
+    position:absolute;
+    z-index: 2;
+}
+
+.section {
+    display: flex;
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    align-items:center;
+    justify-content:center;
+    
+}
+
+
+.wordContainer {
+    position: relative;
+    display: inline-block;
+    width: 100%
+    /*whatever dimensions you want*/
+    
+}
+
+.mainheader{
+    display: flex;
+    /* width: 50%; */
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    /* align-items:center; */
+    justify-content:center;
+}
+ .toplogin {
+    position: absolute;
+    top: -65px;
+    
+} 
+ .downLogin {
+    position: relative;
+    top: 75px;
+    left: 38px
+}
+ 

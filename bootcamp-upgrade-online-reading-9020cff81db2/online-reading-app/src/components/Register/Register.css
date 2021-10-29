@@ -1,0 +1,42 @@
+.Col{
+    background-color: blue;
+}
+
+.centralize{
+    margin-top:10%;
+}
+
+.formLabel{
+    max-width: 50%;
+}
+.button{
+    margin-left:25%;
+}
+
+.section {
+    display: flex;
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    align-items:center;
+    justify-content:center;
+}
+.wordContainer {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    /*whatever dimensions you want*/
+    bottom: 20px;
+    
+}
+
+.Upper{
+    font-size: 40px;
+}
+
+.Bellow{
+    font-size: 13px;
+    
+}
+

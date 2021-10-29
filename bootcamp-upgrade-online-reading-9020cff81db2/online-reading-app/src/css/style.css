@@ -1,0 +1,26 @@
+@font-face {
+    font-family: fredokaone;
+    src: url(FredokaOne-Regular.ttf);
+   }
+   div {
+    font-family: fredokaone;
+   }
+p{
+    font-family: "Helvetica Neue";
+}
+
+   .section {
+    display: flex;
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    
+    align-items:center;
+    justify-content:center;
+  }
+
+
+   .description{
+       background-color: #3F78EA;
+   }
